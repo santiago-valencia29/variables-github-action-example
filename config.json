@@ -1,5 +1,5 @@
 {
-  "source": ["tokens/tokens.json"],
+  "source": ["tokens/Product interactions — Completed.Default.json"],
   "platforms": {
     "scss": {
       "transformGroup": "scss",
